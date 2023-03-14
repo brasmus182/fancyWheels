@@ -1,0 +1,26 @@
+{
+  "name": "fancywheels",
+  "version": "1.0.0",
+  "description": "Blockchain based slot machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brasmus182/fancyWheels.git"
+  },
+  "author": "@bigbadbeard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brasmus182/fancyWheels/issues"
+  },
+  "homepage": "https://github.com/brasmus182/fancyWheels#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "hardhat": "^2.13.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
+  }
+}
